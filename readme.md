@@ -1,3 +1,9 @@
+# 首届 "马栏山"杯国际音视频算法大赛 画质赛道参赛帮助
+
+## 赛题说明
+
+视频/图像损伤修复是一个比较综合的范畴，包括去伪影/去块/去噪(artifacts reduction, deblocking, denoising)。为帮助选手对赛题快速理解，这里借用了Artifacts Reduction Convolutional Neural Network，供选手参考。
+
 # Artifacts Reduction Convolutional Neural Network
 
 This is a Tensorflow implementation of [Artifacts Reduction Convolutional Neural Network](https://arxiv.org/abs/1504.06993).
